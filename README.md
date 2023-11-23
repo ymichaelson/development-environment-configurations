@@ -14,5 +14,7 @@
 ```
 
 > [Linux](https://github.com/ymichaelson/development-environment-configurations/blob/main/linux/README.md)
+
 > [MacOS](https://github.com/ymichaelson/development-environment-configurations/blob/main/mac/README.md)
+
 > [Windows](https://github.com/ymichaelson/development-environment-configurations/blob/main/windows/README.md)
